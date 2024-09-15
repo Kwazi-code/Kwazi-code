@@ -4,7 +4,7 @@
 💼 Certifications:
 Azure DevOps Expert (AZ-400 Certified)
 Azure Developer (AZ-204 Certified)
-Java Developer associate (Oracle Certified)
+Java Developer associate (Oracle Certified) and many more cloud and programming certfications uploaded on Linkedin.linkedin link is below 
 
 🌱 I’m currently learning: Advanced Kubernetes deployments, Infrastructure as Code (IaC), and integrating CI/CD pipelines with automation tools.
 💞️ I’m looking to collaborate on:
