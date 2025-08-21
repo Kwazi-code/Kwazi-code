@@ -21,11 +21,6 @@ I'm a **T-shaped Full-Stack Engineer and POLYGLOT DEVELOPER ** passionate about 
 - 🛠️ **Infrastructure as Code (IaC)** with Terraform & Bicep
 - 🔁 Integrating **CI/CD pipelines** with automation tools like GitHub Actions & Azure Pipelines
 
-## 🤝 I’m Looking to Collaborate On
-- 🧱 Projects involving **Azure DevOps**, CI/CD automation, containerization, and cloud infrastructure
-- 🌐 Full-stack applications and cloud integrations
-
-
 ## 📫 How to Reach Me
 - 📧 Email: lehlohonolomashaya@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/kwazi-lehlohonolo-mashaya-65abba266](https://www.linkedin.com/in/kwazi-lehlohonolo-mashaya-65abba266)
