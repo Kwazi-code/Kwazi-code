@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kwazi Lehlohonolo Mashaya
+# Hi, I'm Kwazi Lehlohonolo Mashaya
 
 I'm a **T-shaped Full-Stack Engineer and POLYGLOT DEVELOPER ** passionate about **Cloud Computing**, **DevOps**, and building **scalable, secure applications** on **Azure** and **AWS**.
 
@@ -8,7 +8,6 @@ I'm a **T-shaped Full-Stack Engineer and POLYGLOT DEVELOPER ** passionate about 
 - **Oracle Certified Java Developer Associate**
 -  **Azure Fundamentals (AZ-900)**
 -  **AI Fundamentals (AI-900)**
-
 
 ## 🧠 Agile & DevOps Experience
 - 🧾 Led **Agile sprints** as a **Scrum Master**, facilitating daily stand-ups, sprint planning, and retrospectives
